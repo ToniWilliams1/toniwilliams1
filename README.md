@@ -13,3 +13,8 @@ Passionate software enineer with a particular focus on web development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
+Languages and Tools:
+
+Highlighted Projects
+
+Contact Me:

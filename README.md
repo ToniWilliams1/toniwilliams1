@@ -16,6 +16,7 @@ Passionate software enineer with a particular focus on web development.
 
 
 [![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1)](https://github.com/toniwilliams1/github-readme-stats)
+![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
 Languages and Tools:
 

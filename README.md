@@ -13,6 +13,12 @@ Passionate software enineer with a particular focus on web development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=toniwilliams1d&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toniwilliams1&langs_count=5&theme=tokyonight)]()
+
 Languages and Tools:
 
 Highlighted Projects

@@ -41,6 +41,6 @@
 
 
 <h3>Contact Me:<h3>
-<a href=”https://www.linkedin.com/in/toniwilliams03">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width="42px" height="42px"/>
+<a href="https://www.linkedin.com/in/toniwilliams03">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width="42px" height="42px"/>
 </a>

@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer
 -->
 
 - 🔭 My name is Toni and I'm from New York City.
-- 🌱 I’mp assionate about full stack web development, education, and spreading knowledge to others.
+- 🌱 I’m passionate about full stack web development, education, and spreading knowledge to others.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, increasing digital presence, projects.
 - 📫 How to reach me: ...
@@ -16,7 +16,7 @@ I'm a Full Stack Web Developer
 
 
 
-GitHub Stats
+<h2> GitHub Stats </h2>
 ![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
 Languages and Tools:

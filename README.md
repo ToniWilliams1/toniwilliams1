@@ -10,9 +10,8 @@ I'm a Full Stack Web Developer
 - 🌱 I’m passionate about full stack web development, education, and spreading knowledge to others.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, increasing digital presence, projects.
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: It's spelled Toni, with an I!
+- ⚡ Fun fact: I've lived in New York my whole life!
 
 
 
@@ -32,6 +31,6 @@ Languages and Tools:
 
 <h2> Highlighted Projects <h2>
 
-Contact Me:
+<h3>Contact Me:<h3>
 
 <a href=”https://www.linkedin.com/in/toniwilliams03/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>

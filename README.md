@@ -15,10 +15,8 @@ I'm a Full Stack Web Developer
 
 
 
-<h2> GitHub Stats </h2>
-![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
-Languages and Tools:
+<h2> Languages and Tools: <h2>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,6 +28,10 @@ Languages and Tools:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h2> Highlighted Projects <h2>
+  
+  <h2> GitHub Stats </h2>
+![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
+
 
 <h3>Contact Me:<h3>
 

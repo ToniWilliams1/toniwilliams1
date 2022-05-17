@@ -1,7 +1,7 @@
 ###<h1> Hi there, I'm Toni 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/toniwilliams1/toniwilliams1/issues/1#issue-1238728137" width="600" height="300"/>
 </div>
                                                                                                                
 <!--

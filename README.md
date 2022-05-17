@@ -1,7 +1,8 @@
 ###<h1> Hi there, I'm Toni 👋</h1>
 
-<img src=”https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png)
-" alt=”my banner”>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
                                                                                                                
 <!--
 **toniwilliams1/toniwilliams1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

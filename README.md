@@ -1,4 +1,4 @@
-###<h1> Hi there, I'm Toni 👋</h1>
+### <h1> Hi there, I'm Toni 👋</h1>
 
 <div align="center">
   <img src="https://github.com/toniwilliams1/toniwilliams1/issues/1#issue-1238728137" width="600" height="300"/>
@@ -20,6 +20,7 @@
 
 
 <h2> Languages and Tools: <h2>
+  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -33,7 +34,7 @@
 <h2> Highlighted Projects <h2>
   
   <h2> GitHub Stats </h2>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
 

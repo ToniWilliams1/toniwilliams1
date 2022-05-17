@@ -9,10 +9,10 @@
 
 -->
 
-- 🔭 My name is Toni and I'm from New York City.
-- 🌱 I’m passionate about full stack web development, education, and spreading knowledge to others.
+- 🔭 I'm from New York City.
+- 🌱 I’m passionate about developing full stack web applications, learning new things every day, and spreading knowledge to others.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about web development, increasing digital presence, projects.
+- 💬 Ask me about full stack web development, and projects.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in New York my whole life!
 

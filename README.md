@@ -19,7 +19,7 @@
 
 
 
-<h2> Languages and Tools: <h2>
+<h2> The Languages and Tools I Use Are: <h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +33,7 @@
 
 <h2> Highlighted Projects <h2>
   
-<h2> GitHub Stats </h2>
+<h2> My GitHub Stats </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 

@@ -9,6 +9,8 @@
 
 -->
 
+## View my website here
+
 - 🔭 I'm from New York City. 🗽
 - 🌱 I’m passionate about developing full stack web applications, learning new things every day, and spreading knowledge to others. 👩🏾‍💻
 - 👯 I’m looking to collaborate on open source projects.

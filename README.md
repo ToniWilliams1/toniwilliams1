@@ -36,6 +36,8 @@ https://toniwilliams.netlify.app/
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Highlighted Projects: 
+Crypto Coin Data
+https://github.com/toniwilliams1/Crypto-Coin-Data
   
 ## My GitHub Stats:
 

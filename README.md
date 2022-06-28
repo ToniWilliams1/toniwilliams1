@@ -9,8 +9,7 @@
 
 -->
 
-## View my website here
-toniwilliams.netlify.app
+## [View my website here] (toniwilliams.netlify.app)
 
 - 🔭 I'm from New York City. 🗽
 - 🌱 I’m passionate about developing full stack web applications, learning new things every day, and spreading knowledge to others. 👩🏾‍💻

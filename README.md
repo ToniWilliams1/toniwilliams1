@@ -10,7 +10,7 @@
 -->
 
 ## View my website here
-toniwilliams.netlify.app
+https://toniwilliams.netlify.app/
 
 - 🔭 I'm from New York City. 🗽
 - 🌱 I’m passionate about developing full-stack web applications, learning new things, and spreading knowledge to others. 👩🏾‍💻

@@ -9,7 +9,7 @@
 
 -->
 
-## View my website here
+## View My Website Here
 https://toniwilliams.netlify.app/
 
 ## About Me
@@ -44,7 +44,8 @@ https://toniwilliams.netlify.app/
 ![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
 
-<h3>Contact Me:<h3>
+## Contact Me
+  
 <a href="https://www.linkedin.com/in/toniwilliams03">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width="42px" height="42px"/>
 </a>

@@ -52,8 +52,7 @@ https://github.com/toniwilliams1/Crypto-Coin-Data
       <a href="https://www.linkedin.com/in/toniwilliams03/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-     
-    </p>
+ 
   <p align="center">
       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"

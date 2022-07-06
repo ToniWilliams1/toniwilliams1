@@ -57,7 +57,6 @@ https://github.com/toniwilliams1/Crypto-Coin-Data
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
  
-    </p>
   </samp>
 </div>
   

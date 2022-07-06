@@ -45,9 +45,14 @@ https://github.com/toniwilliams1/Crypto-Coin-Data
 
 
 ## Contact Me!
-  
-<a href="https://www.linkedin.com/in/toniwilliams03">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" width="42px" height="42px"/>
-</a>
-<a href = "https://twitter.com/MTonisTechTalk_">
-  <img src="
+
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/toniwilliams03/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="toni" height="30"/></a>
+    </p>
+
+      <a href="https://twitter.com/tonistechtalk" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="toni" height="30"/></a>

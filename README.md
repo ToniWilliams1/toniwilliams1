@@ -52,8 +52,6 @@ https://github.com/toniwilliams1/Crypto-Coin-Data
   
 ## My GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
 
 

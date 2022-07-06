@@ -57,10 +57,10 @@ https://github.com/toniwilliams1/Crypto-Coin-Data
       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-    
-      <a href="https://twitter.com/tonistechtalk" target="blank"><img align="center"
+     <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
+    
       <br>
     </p>
   </samp>

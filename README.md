@@ -54,12 +54,9 @@
 
 
 ### Highlighted Projects: 
-## ![Crypto Coin Data](https://github.com/toniwilliams1/Crypto-Coin-Data)
+## ![Crypto Connect](https://github.com/toniwilliams1/Crypto-Coin-Data)
   
 ## My GitHub Stats:
-
-![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniwilliams1&show_icons=true&theme=radical)
-
 
 ## Contact Me!
 <div>

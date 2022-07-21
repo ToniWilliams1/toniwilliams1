@@ -54,8 +54,7 @@
 
 
 ### Highlighted Projects: 
-## ![Crypto Coin Data]
-(https://github.com/toniwilliams1/Crypto-Coin-Data)
+## ![Crypto Coin Data](https://github.com/toniwilliams1/Crypto-Coin-Data)
   
 ## My GitHub Stats:
 

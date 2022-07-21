@@ -54,9 +54,8 @@
 
 
 ### Highlighted Projects: 
-## ![Crypto Connect](https://github.com/toniwilliams1/Crypto-Coin-Data)
+## [Crypto Connect](https://github.com/toniwilliams1/Crypto-Coin-Data)
   
-## My GitHub Stats:
 
 ## Contact Me!
 <div>

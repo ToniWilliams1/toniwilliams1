@@ -56,6 +56,8 @@
 ### Highlighted Projects: 
 ## [Crypto Connect](https://github.com/toniwilliams1/Crypto-Coin-Data)
   
+ ![] ##[Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)
+  https://github.com/toniwilliams1/toniwilliams1/blob/main/www_screencapture_com_2022-7-22_17_16_Trim.mp4
 
 ## Contact Me!
 <div>

@@ -57,12 +57,9 @@
 
 ### Highlighted Projects: 
 
-|[Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)     |Zen Studios     |    |
+|[Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)|[Zen Photography Studios](https://github.com/toniwilliams1/Zen-Studios)|
 | -------------      | ------------- | -------- |
 |  <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g">  |HTML5, CSS3, & Javascript -Goddess Hair Salon is a fully responsive website made for a client.
-         | NewYork  |
-|   
-       | Test2         | Toronto  |
 
 
 <div align="center">

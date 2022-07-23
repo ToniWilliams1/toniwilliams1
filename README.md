@@ -57,6 +57,12 @@
 
 ### Highlighted Projects: 
 
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
+
+
 <div align="center">
 
 ## [Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)

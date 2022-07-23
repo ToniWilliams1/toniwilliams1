@@ -57,10 +57,11 @@
 
 ### Highlighted Projects: 
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+|Goddess Hair Salon     |Zen Studios     |    |
+| -------------      | ------------- | -------- |
+|[Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)     | Test1         | NewYork  |
+|    <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g">
+       | Test2         | Toronto  |
 
 
 <div align="center">

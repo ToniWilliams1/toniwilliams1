@@ -24,7 +24,9 @@
 
 ## My Skills: 🛠  
 
+<div align="center">
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 200px>
+  </div>
 
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,9 +56,13 @@
 
 
 ### Highlighted Projects: 
+
+<div align="center">
+
 ## [Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)
   
 <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g">
+</div>
 
 ## Contact Me!
 <div>

@@ -56,8 +56,7 @@
 ### Highlighted Projects: 
 ## [Crypto Connect](https://github.com/toniwilliams1/Crypto-Coin-Data)
   
-![screen-gif](./giphy.gif)
-
+<img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g">
 
 ## Contact Me!
 <div>

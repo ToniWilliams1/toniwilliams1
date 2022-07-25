@@ -60,7 +60,7 @@
 
 | [Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)  | [Zen Photography Studios](https://github.com/toniwilliams1/Zen-Studios) |
 | ------------- | ------------- |
-|  <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g" width="500px"> | !<img src="https://user-images.githubusercontent.com/100317017/180827226-7e0b7847-b8e3-4033-bbf6-3061a15db5f4.png" width="500px')
+|  <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g" width="500px"> | <img src="https://user-images.githubusercontent.com/100317017/180827226-7e0b7847-b8e3-4033-bbf6-3061a15db5f4.png" width="500px')
 
 
 

@@ -10,7 +10,7 @@
 - 🤔 I’m currently open for a new job opportunity.
 - 🌱 I’m passionate about developing full-stack web applications, learning new things, and spreading knowledge to others. 👩🏾‍💻
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about full-stack web development!
+- 💬 Ask me about full stack web development!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in New York City my whole life! 🍎
 

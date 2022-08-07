@@ -8,7 +8,7 @@
 - 👨‍💻 You can find all of my projects here on my portfolio. https://toniwilliams.netlify.app/
 - 🔭 I'm from New York City. 🗽
 - 🤔 I’m currently open for a new job opportunity.
-- 🌱 I’m passionate about developing full-stack web applications, learning new things, and spreading knowledge to others. 👩🏾‍💻
+- 🌱 I’m passionate about developing full stack web applications, learning new things, and spreading knowledge to others. 👩🏾‍💻
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about full stack web development!
 - 😄 Pronouns: She/Her

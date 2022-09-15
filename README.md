@@ -8,14 +8,10 @@
 - 👨‍💻 You can find all of my projects here on my portfolio. https://toniwilliams.netlify.app/
 - 🔭 I'm from New York City. 🗽
 - 🤔 I’m currently learning AWS and MVC!
-- 🌱 I’m passionate about developing full stack web applications that leave an impact on the world. 👩🏾‍💻
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about full stack web development!
+- 🌱 I’m passionate about developing full stack web applications that leave an impact on the world. 👩🏾‍💻.
+- 💬 I'm currently working on my 100 Hours project.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in New York City my whole life! 🍎
-
-
-
 
 ## My Skillset: 🛠  
 

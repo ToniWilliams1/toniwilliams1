@@ -10,7 +10,6 @@
 - 🤔 I’m currently learning AWS and MVC!
 - 🌱 I’m passionate about developing full stack web applications that leave an impact on the world. 👩🏾‍💻.
 - 💬 I'm currently working on my 100 Hours project.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in New York City my whole life! 🍎
 
 ## My Skillset: 🛠  

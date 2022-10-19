@@ -9,7 +9,7 @@
 - 🔭 I'm from New York City. 🗽
 - 🤔 I’m currently learning AWS!
 - 🌱 I’m passionate about learning languages, which fueled my passion for coding👩🏾‍💻.
-- 💬 I'm currently working on my 100 Hours project.
+- 💬 I'm currently working onCrypto Connect, a Cryptocurrency Social Media Web App.
 - ⚡ Fun fact: I've lived in New York City my whole life! 🍎
 
 ## My Skillset: 🛠  

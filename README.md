@@ -10,7 +10,7 @@
 - 🤔 I’m currently learning AWS!
 - 🌱 I’m passionate about learning languages, which fueled my passion for coding👩🏾‍💻.
 - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
-- ⚡ Fun fact: I've lived in New York City my whole life! 🍎
+- ⚡ Fun fact: I've lived in New York City my whole life!  🍎
 
 ## My Skillset: 🛠  
 

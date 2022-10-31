@@ -5,7 +5,7 @@
 </div>
                                                                                                                
 ## About Me:
-- 👨‍💻 You can find my projects here on my portfolio. https://toniwilliams.netlify.app/
+- 👨‍💻 You can find all of my projects here on my portfolio. https://toniwilliams.netlify.app/
 - 🔭 I'm from New York City. 🗽
 - 🤔 I’m currently learning AWS!
 - 🌱 I’m passionate about learning new languages, which fueled my passion for coding👩🏾‍💻.

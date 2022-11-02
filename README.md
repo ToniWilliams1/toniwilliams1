@@ -50,7 +50,11 @@
 
 | [Goddess Hair Salon](https://github.com/toniwilliams1/Goddess-Hair-Salon)  | [Zen Photography Studios](https://github.com/toniwilliams1/Zen-Studios) |
 | ------------- | ------------- |
-|  <img src="https://media1.giphy.com/media/bORoqclYVhoYyhjG7x/giphy.gif?cid=790b76119a0b4d63994d3b1a9938935d1568ffbf46730262&rid=giphy.gif&ct=g" width="500px"> |![zen](https://user-images.githubusercontent.com/100317017/180828318-f11cd5b4-7f87-40be-b972-65e441957e0b.jpg)
+|  <img src="#" width="500px"> |![zen](https://user-images.githubusercontent.com/100317017/180828318-f11cd5b4-7f87-40be-b972-65e441957e0b.jpg)
+
+| [Crypto Connect](https://github.com/toniwilliams1/Goddess-Hair-Salon)  | [Fit Feel](https://github.com/toniwilliams1/Zen-Studios) |
+| ------------- | ------------- |
+|  <img src="#" width="500px"> |![zen](https://user-images.githubusercontent.com/100317017/180828318-f11cd5b4-7f87-40be-b972-65e441957e0b.jpg)
 
 
 | [Developer Village](https://github.com/toniwilliams1/Developer-Village) |  |

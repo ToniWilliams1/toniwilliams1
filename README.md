@@ -4,7 +4,6 @@
   <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="600" height="300"/>
 </div>
                                                                                                                
-## About Me:
 - 👨‍💻 You can find all of my projects here on my portfolio. https://toniwilliams.netlify.app/
 - 🔭 I'm from New York City. 🗽
 - 🤔 I’m currently learning AWS!

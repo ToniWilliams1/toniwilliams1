@@ -4,14 +4,14 @@
   <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="600" height="300"/>
 </div>
                                                                                                                
-- 👨‍💻 You can find all of my projects here on my [portfolio](https://toniwilliams.netlify.app/).
-- 🔭 I'm from New York City. 🗽
-- 🤔 I’m currently learning AWS!
-- 🌱 I’m passionate about learning new languages, which fueled my passion for coding👩🏾‍💻.
-- 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
-- ⚡ Fun fact: I've lived in New York City my whole life!  🍎
+# - 👨‍💻 You can find all of my projects here on my [portfolio](https://toniwilliams.netlify.app/).
+# - 🔭 I'm from New York City. 🗽
+# - 🤔 I’m currently learning AWS!
+# - 🌱 I’m passionate about learning new languages, which fueled my passion for coding👩🏾‍💻.
+# - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
+# - ⚡ Fun fact: I've lived in New York City my whole life!  🍎
 
-# Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
+ Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
 
 
 

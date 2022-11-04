@@ -11,7 +11,7 @@
 - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
 - ⚡ Fun fact: I've lived in New York City my whole life!  🍎
 
-Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
+# Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
 
 
 

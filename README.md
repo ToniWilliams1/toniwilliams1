@@ -7,9 +7,9 @@
  - 👩🏾‍💻You can find all of my projects on my [portfolio](https://toniwilliams.netlify.app/).
 - 🗽 Born and raised in New York City. 
  - 🤔 I’m currently learning AWS!
- - 🌱 I’m passionate about learning new languages and love to using tech to solve problems. The two combined fuels my passion for coding.
+ - 🌱 I’m passionate about learning new languages and using tech to solve problems. The two combined fuels my passion for coding.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
- - ⚡ Fun fact: I solve a coding challenge every day Check out my solutions [repo](https://github.com/toniwilliams1/CodewarsSolutions) 
+ - ⚡ Fun fact: I solve a coding challenge every day Check out my solutions [repo](https://github.com/toniwilliams1/CodewarsSolutions).
 
 Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
 

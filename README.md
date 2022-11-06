@@ -16,7 +16,7 @@ Over the years, I've had the privelege of working with great software and not-so
 ## My Skillset: 🛠  
 
 <div align="center">
- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 200px>
+ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height= "200px" width = "200"px>
   </div>
 
 ### Programming Languages:

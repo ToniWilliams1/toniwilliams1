@@ -1,19 +1,17 @@
 <h1 align="center">Hi there, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="600" height="200"/>
 </div>
                                                                                                                
-# - 👨‍💻 You can find all of my projects here on my [portfolio](https://toniwilliams.netlify.app/).
-# - 🔭 I'm from New York City. 🗽
-# - 🤔 I’m currently learning AWS!
-# - 🌱 I’m passionate about learning new languages, which fueled my passion for coding👩🏾‍💻.
-# - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
-# - ⚡ Fun fact: I've lived in New York City my whole life!  🍎
+ - 👨‍💻 You can find all of my projects here on my [portfolio](https://toniwilliams.netlify.app/).
+- 🔭 I'm from New York City. 🗽
+ - 🤔 I’m currently learning AWS!
+ - 🌱 I’m passionate about learning new languages, which fueled my passion for coding👩🏾‍💻.
+ - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
+ - ⚡ Fun fact: I've lived in New York City my whole life!  🍎
 
- Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
-
-
+Over the years, I've had the privelege of working with great software and not-so-great software. In my experience as a paralegal, we continuosly used a case tracking system that had many issues. Our office struggled with meeting deadlines because the software we relied on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so indiduals can have the best experience. I've picked up Software Engineering with the goal of helping lawyers and paralegals learn more efficiently and fell in love with using tech to solve problems.
 
 ## My Skillset: 🛠  
 
@@ -51,14 +49,21 @@
 
 
 
+<h2 align="left" color="white">Projects</h2>
 
+<div align="center">
+<table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">My Portfolio</h3>
+          <p align="center">
+             <a href="https://www.patricksnowden.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/snowsneakers/read-me-assets/blob/main/portfolio-gif.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/snowsneakers/another-portfolio" target="_blank ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://www.patricksnowden.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		Visit my <a href="https://www.patricksnowden.com" target="_blank" ref="noreferrer">portfolio</a>
+            </p>
 
- 
-
-| LA Stargazers NASA APOD Web App | L U X E Bar Web App|
-| ------------- | ------------- |
-|   https://user-images.githubusercontent.com/100317017/200106300-dc689689-7a4a-4be5-b28b-4e17670f7144.mov  |
-| Content Cell  | Content Cell  |
 
 
 

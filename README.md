@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="600" height="200"/>
+  <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="800" height="200"/>
 </div>
                                                                                                                
  - 👨‍💻 You can find all of my projects here on my [portfolio](https://toniwilliams.netlify.app/).

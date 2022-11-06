@@ -49,7 +49,7 @@ Over the years, I've had the privelege of working with great software and not-so
 
 
 
-<h2 align="left" color="white">Projects</h2>
+<--! <h2 align="left" color="white">Projects</h2>
 
 <div align="center">
 <table>
@@ -62,7 +62,7 @@ Over the years, I've had the privelege of working with great software and not-so
 		<a href="https://www.patricksnowden.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Visit my <a href="https://www.patricksnowden.com" target="_blank" ref="noreferrer">portfolio</a>
-            </p>
+            </p> -->
 
 
 

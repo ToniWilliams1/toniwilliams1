@@ -12,9 +12,7 @@
  - 🌱 I’m passionate about learning new languages and using tech to solve problems. The two combined fuels my passion for coding.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
  - ⚡ Fun fact: I solve a coding challenge every day check out my solutions [repo](https://github.com/toniwilliams1/CodewarsSolutions).
-
-## My Skillset: 🛠  
-
+ 
 <div align="center">
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height= "200px" width = "200"px>
   </div>

@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <a href='https://raissa-k.github.io/TECHTOGETHER-HACK/index.html'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-8916-1c19bb1b5243.mp4
+
   
 <br>
 <br>
@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 <a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-947b-b63722c42e64.mp4
+
   
 <br>
 <br>

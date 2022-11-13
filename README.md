@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
 </div>
-  <h3 align="center" color="white">Above the Horizon</h2>
+  <h3 align="center" color="white">LA Stargazers Society Web App</h2>
 <div align="center" >  
 <a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
 </a>

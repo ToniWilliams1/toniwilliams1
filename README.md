@@ -7,9 +7,9 @@
   </div>
   
  - 👩🏾‍💻You can find all of my projects on my [portfolio](https://toniwilliams.netlify.app/).
-- 🗽  When I'm not coding I like to read books. 
+- 🗽  When I'm not coding I like to write [blog] posts(https://medium.com/@toniwilliams03). 
  - 🤔 I’m currently learning AWS!
- - 🌱 I’m passionate about learning new languages and using tech to solve problems. The two combined fuels my passion for coding.
+ - 🌱 I’m passionate about learning new skills, and using tech to solve problems. The two combined fuels my passion for coding.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
  - ⚡ Fun fact: I solve a coding challenge every day check out my solutions [repo](https://github.com/toniwilliams1/CodewarsSolutions).
  

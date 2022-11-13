@@ -101,14 +101,14 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 <br>
 <br>
 <p>
-<a href="https://github.com/leahthompson01/UpdatedSpace" target="_blank">
+<a href="https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://leahthompson01.github.io/UpdatedSpace/index.html" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed as a team of four during a hackathon. This project won best space hack! Miami residents can use this app to learn more about the Florida space scene.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - Created a vanilla JavaScript application using data from a NASA API. You are able to enter any date, and retrieve content from NASA, a description of the content along with the name of the photo displayed on a playing card.</p>
 </div>
 </table>
 

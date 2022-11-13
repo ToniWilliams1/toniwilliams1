@@ -7,7 +7,7 @@
   </div>
   
  - 👩🏾‍💻You can find all of my projects on my [portfolio](https://toniwilliams.netlify.app/).
-- 🗽  When I'm not coding I like to write [blog posts.](https://medium.com/@toniwilliams03). 
+- 🗽  When I'm not coding I like to write [blog posts.](https://medium.com/@toniwilliams03)
  - 🤔 I’m currently contributing to free open source projects.
  - 🌱 I’m passionate about learning new skills, and using tech to solve problems. The two combined fuels my passion for coding.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
@@ -112,12 +112,7 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 </div>
 </table>
 
-
-
-
-
-
-## Contact Me!
+## Please feel free to reach out for any freelancing opportunities, project opportunities, or a full-time opportunities.
 <div>
   <samp>
     <p align="center">

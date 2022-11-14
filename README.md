@@ -26,9 +26,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Animal Crossing App</h2>
+<h3 align="center" color="white">Crypto Connect</h2>
 <div align="center" >  
-<a href='https://animal-crossing-app.netlify.app/'> 
+<a href='https://cryptoconnect.netlify.app/'> 
 </a>
   
  https://user-images.githubusercontent.com/97814431/168460272-1a8301a8-6c28-48ef-84ac-cb8a8f080ca2.mp4
@@ -40,11 +40,11 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<a href="https://crpyotconnect.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager by clicking on the button. This info is displayed on a playing card.</p>
+<p><strong>JavaScript, Node, Express, MongoDB</strong> - Users can log in via Coinbase and connect to a live feed. On the feed users can upload images, get Crypto data, and add coins to a watchlist.</p>
 </div>
   
 

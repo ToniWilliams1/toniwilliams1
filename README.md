@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB</strong> - Users can log in via Coinbase and connect to a live feed. On the feed users can upload images, get Crypto data, and add coins to a watchlist.</p>
+<p><strong>JavaScript, Node, Express, MongoDB</strong> - Users can log in via Coinbase and connect to a live feed. On the feed users can upload images via Cloudinary, get Crypto data, and add coins to a watchlist.</p>
 </div>
   
 
@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Capital Hack</h2>
+<h3 align="center" color="white">Toni Williams Professional Portolio</h2>
 <div align="center" >  
 <a href='https://raissa-k.github.io/TECHTOGETHER-HACK/index.html'>
 </a>
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - Portolfio site displaying my projects, .</p>
 </div>
   <h3 align="center" color="white">LA Stargazers Society Web App</h2>
 <div align="center" >  

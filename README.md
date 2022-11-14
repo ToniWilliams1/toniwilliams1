@@ -4,7 +4,7 @@
  - 🗽 I am a software engineer from The Bronx, New York.
    - ✅ I’m passionate about innovation and using tech to solve problems.
   - 👩🏾‍💻  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
-  - ❤️ I’m currently contributing to free open source projects.
+  - ❤️ I’m currently contributing to free open source projects and volunteering with grassroots organizations.
   - 🪴 Fun fact: I love plants!
  
 

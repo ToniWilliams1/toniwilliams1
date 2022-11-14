@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-  <img src="https://https://user-images.githubusercontent.com/100317017/201572613-f2cc4883-3e5f-4ceb-8a2e-47a09e66b2e3.png" width="800" height="200"/>
+
   
 https://user-images.githubusercontent.com/100317017/201572613-f2cc4883-3e5f-4ceb-8a2e-47a09e66b2e3.png
 

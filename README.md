@@ -117,12 +117,10 @@ https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557
 <p><strong>JavaScript, HTML5, CSS3</strong> - Created a vanilla JavaScript application using data from a NASA API. You are able to enter any date, and retrieve content from NASA, a description of the content along with the name of the photo displayed on a playing card.</p>
 </div>
 </table>
-
-## Please feel free to reach out for any freelancing opportunities, project opportunities, or a full-time opportunities.
 <div>
   <samp>
     <p align="center">
-      <br/>
+   <p>Contact</p>
       <a href="https://www.linkedin.com/in/toniwilliams03/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -131,8 +129,6 @@ https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
   
-      <p> Please feel free to reach out to my [email](toniwilliams03@outlook.com)</p>
-
 </div>
   
 

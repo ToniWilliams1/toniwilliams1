@@ -36,7 +36,7 @@
 <br>
 <br>
 <p>
-  <a href="https://github.com/leahthompson01/ACNH-Generator" target="_blank">
+  <a href="https://github.com/toniwilliams1/crypto-connect" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
@@ -52,10 +52,15 @@
 
   <h3 align="center" color="white">Levelground MMA</h2>
 <div align="center" >  
-<a href='https://github.com/leahthompson01/levelground-MMA'> 
+<a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
   
-https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-9fc1-4d48cdad75f7.mp4
+
+
+
+https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457-a96a-c73d7d8ccd6e.mov
+
+
   
 <br>
 <br>

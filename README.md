@@ -6,8 +6,8 @@
 <p> Creative, detail-oriented, software engineer who fell in love with using tech to solve problems. I am looking to bring my skills to a global reach. </p>  
   </div>
   
- - 👩🏾‍💻You can find all of my projects on my [portfolio](https://toniwilliams.netlify.app/).
-- 🗽  When I'm not coding I like to write [blog posts.](https://medium.com/@toniwilliams03)
+ - 👩🏾‍💻I am a software engineer from The Bronx, New York.
+- 🗽  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
  - 🤔 I’m currently contributing to free open source projects.
  - 🌱 I’m passionate about learning new skills, and using tech to solve problems. The two combined fuels my passion for coding.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.

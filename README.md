@@ -3,15 +3,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="800" height="200"/>
 
-  🗽 I am a software engineer from The Bronx, New York
-  👩🏾‍💻  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
-  ❤️ I’m currently contributing to free open source projects.
-  ✅ I’m passionate about innovation and using tech to solve problems.
-  🪴 Fun fact: I love plants!
+ - 🗽 I am a software engineer from The Bronx, New York
+  - 👩🏾‍💻  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
+  - ❤️ I’m currently contributing to free open source projects.
+  - ✅ I’m passionate about innovation and using tech to solve problems.
+  - 🪴 Fun fact: I love plants!
  
-<div align="center">
- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height= "200px" width = "200"px>
-  </div>
+
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 

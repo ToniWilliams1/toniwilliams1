@@ -2,14 +2,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/100317017/168835260-575887d4-f1c1-483d-a76c-ae6c16360fd4.png" width="800" height="200"/>
+
   
-<p> Creative, detail-oriented, software engineer who fell in love with using tech to solve problems. I am looking to bring my skills to a global reach. </p>  
-  </div>
-  
- - 👩🏾‍💻I am a software engineer from The Bronx, New York.
+ -   👩🏾‍💻I am a software engineer from The Bronx, New York.
 - 🗽  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
  - 🤔 I’m currently contributing to free open source projects.
- - 🌱 I’m passionate about learning new skills, and using tech to solve problems. The two combined fuels my passion for coding.
+ - 🌱 I’m passionate about innovation and using tech to solve problems.
  - 💬 I'm currently working on Crypto Connect, a Cryptocurrency Social Media Web App.
  - ⚡ Fun fact: I solve a coding challenge every day check out my solutions [repo](https://github.com/toniwilliams1/CodewarsSolutions).
  

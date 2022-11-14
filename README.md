@@ -50,9 +50,9 @@
 
 
 
-  <h3 align="center" color="white">Operation Battles</h2>
+  <h3 align="center" color="white">Levelground MMA</h2>
 <div align="center" >  
-<a href='https://github.com/leahthompson01/MathApp'> 
+<a href='https://github.com/leahthompson01/levelground-MMA'> 
 </a>
   
 https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-9fc1-4d48cdad75f7.mp4
@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <br>
 <br>
 <p>
-  <a href="https://github.com/leahthompson01/FlaskMathAPI" target="_blank">
+  <a href="https://github.com/toniwilliams01/levelground-mma" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
@@ -68,13 +68,13 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>React, Flask, Socketio</strong> - This is a multiplayer math quiz app! You can compete against friends while taking math quizzes.</p>
+<p><strong>HTML/CSS, JavaScript</strong> - This is a mockup site for Levelground MMA studio.</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center" color="white">Toni Williams Professional Portolio</h2>
 <div align="center" >  
-<a href='https://raissa-k.github.io/TECHTOGETHER-HACK/index.html'>
+<a href='https://toniwilliams.netlify.app'>
 </a>
  
 
@@ -82,10 +82,10 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <br>
 <br>
 <p>
-<a href="https://github.com/raissa-k/TECHTOGETHER-HACK" target="_blank">
+<a href="https://toniwilliams.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://raissa-k.github.io/TECHTOGETHER-HACK/index.html" target="_blank">
+<a href="https://toniwilliams.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
@@ -93,7 +93,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 </div>
   <h3 align="center" color="white">LA Stargazers Society Web App</h2>
 <div align="center" >  
-<a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
+<a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
 </a>
  
 
@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <a href="https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://leahthompson01.github.io/UpdatedSpace/index.html" target="_blank">
+<a href="nasas-astronomy-picture-of-the-day.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>

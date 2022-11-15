@@ -20,7 +20,7 @@
 <tr>
 <td width="50%">
 <h3 align="center" color="white">Crypto Connect</h2>
-<div align="center" >  
+<div align="center" >  @TonisTechTalk
 <a href='https://cryptoconnect.netlify.app/'> 
 </a>
 <br>

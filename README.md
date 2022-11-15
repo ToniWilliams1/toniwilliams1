@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern and responsive web site for Top Shot Photography.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern and responsive portfolio site for Top Shot Photography.</p>
 </div>
 </table>
   

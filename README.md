@@ -4,7 +4,8 @@
 ## A passionate Software Engineer from The Bronx, NY
 
   - 📉 I’m currently working on a [crypto assets tracker]().
-  - ❔ Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
+  - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
+  - 📧 You can contact me at toniwilliams03@outlook.com.
   - 🪴 Fun fact: I love animals and building website/ web-based applications!
  
 

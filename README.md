@@ -51,8 +51,7 @@ https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can place custom orders and schedule appointments. </p>
-</div>
+<p><strong>JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can request custom orders
 </td>
 <td width="50%">
 <h3 align="center" color="white">Haus of Naturals</h2>

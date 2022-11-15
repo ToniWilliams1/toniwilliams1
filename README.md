@@ -35,10 +35,10 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB</strong> - Log in via Coinbase and connect to a feed where you can track your Crypto knowledge with friends, andstay  updated on the latest assets.</p>
+<p><strong>JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and connect to a feed where you can track your Crypto knowledge, and stay updated on the latest assets.</p>
 </div>
   <h3 align="center" color="white">Levelground MMA</h2>
-<div align="center" >  
+<div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
 https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457-a96a-c73d7d8ccd6e.mov  
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>HTML/CSS, JavaScript</strong> - This is a mockup site for Levelground MMA studio.</p>
+<p><strong>HTML/CSS, JavaScript</strong> -A fully responsive and modern web site for Levelground MMA.</p>
 </div>
 </td>
 <td width="50%">

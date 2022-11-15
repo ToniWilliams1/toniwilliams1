@@ -35,31 +35,18 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB</strong> - Users can log in via Coinbase and connect to a live feed. On the feed users can upload images via Cloudinary, get Crypto data, and add coins to a watchlist.</p>
+<p><strong>JavaScript, Node, Express, MongoDB</strong> - Log in via Coinbase and connect to a feed where you can track your Crypto knowledge with friends, andstay  updated on the latest assets.</p>
 </div>
-  
-
-
-
   <h3 align="center" color="white">Levelground MMA</h2>
 <div align="center" >  
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
-  
-
-
-
-https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457-a96a-c73d7d8ccd6e.mov
-
-
-  
+https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457-a96a-c73d7d8ccd6e.mov  
 <br>
 <br>
 <p>
   <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">
-  
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
 <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
@@ -72,9 +59,6 @@ https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457
 <div align="center" >  
 <a href='https://toniwilliams.netlify.app'>
 </a>
- 
-
-  
 <br>
 <br>
 <p>
@@ -91,13 +75,7 @@ https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457
 <div align="center" >  
 <a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
 </a>
- 
-
-
 https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557-8d86-cbffa6ba27e3.mov
-
-
-  
 <br>
 <br>
 <p>

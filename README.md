@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## A passionate Software Engineer from Bronx, NY
 
-
- - 🗽 I am a software engineer from The Bronx, New York.
+ 
   - 👩🏾‍💻  When I'm not coding I update my coding [blog](https://medium.com/@toniwilliams03)!
-  - ❤️ I’m currently contributing to free open source projects and volunteering with grassroots organizations.
+  - ❤️ I’m currently working on a [crypto assets tracker]().
   - 🪴 Fun fact: I love plants!
  
 

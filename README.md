@@ -5,7 +5,7 @@
 
   - 📉 I’m currently working on a [crypto assets tracker]().
   - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
-  - 📧 You can contact me at toniwilliams03@outlook.com.
+  - 📧 You can contact me at ToniWilliams03@outlook.com.
   - 🪴 Fun fact: I love blogging and building website/web-based applications!
    <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

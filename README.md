@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/100317017/201561195-d50eb5e4-ca5a-4457
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Portfolio site displaying my projects.</p>
 </div>
-  <h3 align="center" color="white">LA Stargazers Society Web App</h2>
+  <h3 align="center" color="white">Top Shot</h2>
 <div align="center" >  
 <a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
 </a>
@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Created a vanilla JavaScript application using data from a NASA API. You are able to enter any date, and retrieve content from NASA, a description of the content along with the name of the photo displayed on a playing card.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern and responsive web site for Top Shot Photography.</p>
 </div>
 </table>
   

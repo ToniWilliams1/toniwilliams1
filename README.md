@@ -37,7 +37,7 @@
 </p>
 <p><strong>JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and connect to a feed where you can track your Crypto knowledge, and stay updated on the latest assets.</p>
 </div>
-  <h3 align="center" color="white">Levelground MMA</h2>
+  <h3 align="center" color="white">Haus of Naturals</h2>
 <div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>

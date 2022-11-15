@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-## A passionate Software Engineer from Bronx, NY
+## A passionate Software Engineer from The Bronx, NY
 
-  - ❤️ I’m currently working on a [crypto assets tracker]().
-  - Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
+  - 📉 I’m currently working on a [crypto assets tracker]().
+  - ❔ Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
   - 🪴 Fun fact: I love animals and building website/ web-based applications!
  
 

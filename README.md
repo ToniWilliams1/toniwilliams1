@@ -3,6 +3,14 @@
 
 ## A passionate Software Engineer from The Bronx, NY
 
+
+<summary>About Me</summary>
+<br>
+;klj;lj
+</details>
+
+
+
   - 📉 I’m currently working on MERN stack projects.
   - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
   - 📧 You can contact me at ToniWilliams03@outlook.com.

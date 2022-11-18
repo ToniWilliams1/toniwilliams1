@@ -3,7 +3,7 @@
 
 ## A passionate Software Engineer from The Bronx, NY
 
-  - 📉 I’m currently working on a [crypto assets tracker]().
+  - 📉 I’m currently working on MERN stack projects.
   - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
   - 📧 You can contact me at ToniWilliams03@outlook.com.
   - 🪴 Fun fact: I love blogging and building website/web-based applications!

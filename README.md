@@ -4,17 +4,25 @@
 ## A passionate Software Engineer from The Bronx, NY
 
 
+<details>
 <summary>About Me</summary>
 <br>
-;klj;lj
+I have always had two loves, computing and the human body. I studied exercise science and became fascinated with biomechanics. Throughout undergrad and after graduation, I worked as a basketball coach. I used basketball to not only improve my leadership and communication skills but also to explore biomechanics. I focused primarily on teaching athletes optimal form. Unfortunately, the pandemic shut down most sports leagues. During that time, I decided to switch gears and explore that other passion, computing. I can now combine these two passions and bring a lot to a team. Not only in terms of the technology but also with my experience in biomechanics and working with athletes.
 </details>
+
+
+
+- ⏳ Working on some MERN stack projects
+- 🤓 Sports and Pokemon nerd
+- ⚡ EV enthusiast
+- 🐓 Connect with me on <a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
 
 
 
   - 📉 I’m currently working on MERN stack projects.
   - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
   - 📧 You can contact me at ToniWilliams03@outlook.com.
-  - 🪴 Fun fact: I love blogging and building website/web-based applications!
+
    <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -22,7 +30,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)!![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h2 align="center"> Projects </h2>
+<h2 align="center"> Recent Projects </h2>
 <div align="center">
 <table>
 <tr>

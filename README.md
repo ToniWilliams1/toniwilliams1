@@ -11,7 +11,7 @@ I have always had two loves, computing and the human body. I studied exercise sc
 </details> -->
 
   - 📉 I’m currently working on MERN stack projects.
-  - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.js.
+  - 💬 Ask me about HTML 5, CSS, JavaScript, OOP, React, Node.
   - 📧 You can contact me at ToniWilliams03@outlook.com.
 
    <a href="https://twitter.com/tonistechtalk">

@@ -28,6 +28,8 @@ I have always had two loves, computing and the human body. I studied exercise sc
 <td width="50%">
 <h3 align="center" color="white">Crypto Connect</h2>
 <div align="center" >  @TonisTechTalk
+  <img width="1437" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/204716579-c7f8654a-5ed9-4a1e-a67e-fab2c854864b.png">
+
 <a href='https://cryptoconnect.netlify.app/'> 
 </a>
 <br>

@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-## A passionate Software Engineer from The Bronx, NY
 ![Blue and Green Blobs Modern Tech Corporate X-Frame Banner](https://user-images.githubusercontent.com/100317017/203213505-48794edf-1fa2-4e0b-87dc-87b24fe383d5.png)
 
 

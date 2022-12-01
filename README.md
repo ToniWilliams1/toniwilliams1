@@ -10,10 +10,6 @@
 I am a full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I love to solve problems by programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
 </details>
 
-  - 📉 I’m currently working on MERN stack projects.
-  - 💬 Ask me about HTML, CSS, JavaScript, OOP, React, Node.
-  - 📧 You can contact me at ToniWilliams03@outlook.com.
-
   <!-- <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>

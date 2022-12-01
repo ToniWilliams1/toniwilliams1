@@ -7,18 +7,18 @@
 <!-- <details>
 <summary>About Me</summary>
 <br>
-I have always had two loves, computing and the human body. I studied exercise science and became fascinated with biomechanics. Throughout undergrad and after graduation, I worked as a basketball coach. I used basketball to not only improve my leadership and communication skills but also to explore biomechanics. I focused primarily on teaching athletes optimal form. Unfortunately, the pandemic shut down most sports leagues. During that time, I decided to switch gears and explore that other passion, computing. I can now combine these two passions and bring a lot to a team. Not only in terms of the technology but also with my experience in biomechanics and working with athletes.
+Over the years, I've had the privelege of working with great software. In my past experience, I've had to rely on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so individuals can have the best experience. My goal is to 
 </details> -->
 
   - 📉 I’m currently working on MERN stack projects.
   - 💬 Ask me about HTML, CSS, JavaScript, OOP, React, Node.
   - 📧 You can contact me at ToniWilliams03@outlook.com.
 
-   <a href="https://twitter.com/tonistechtalk">
+  <!-- <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)!![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)!![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 <h2 align="center"> Recent Projects </h2>
 <div align="center">

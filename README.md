@@ -57,6 +57,8 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <td width="50%">
 <h3 align="center" color="white">CitySpace NY</h2>
 <div align="center" >  
+![Home](https://user-images.githubusercontent.com/100317017/204970668-cb446ee6-f648-45fc-bd8e-d61f0253858f.jpg)
+
 <a href='https://toniwilliams.netlify.app'>
 </a>
 <br>

@@ -58,7 +58,8 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <h3 align="center" color="white">CitySpace NY</h2>
 <div align="center" >  
  
-<img width="1400"  src="https://user-images.githubusercontent.com/100317017/204970668-cb446ee6-f648-45fc-bd8e-d61f0253858f.jpg">
+
+<img width="1437" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/204971083-44b43493-0ea7-457f-a6a0-a0b736904d5e.png">
 
 <a href='https://toniwilliams.netlify.app'>
 </a>

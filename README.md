@@ -75,7 +75,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save the opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
 </div>
-  <h3 align="center" color="white">Top Shot</h2>
+  <h3 align="center" color="white">Top Shot Photography</h2>
 <div align="center >  
 <a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
 </a>
@@ -90,7 +90,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this locall photographer's portfolio site.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this local photographer's portfolio site.</p>
 </div>
 </table>
   

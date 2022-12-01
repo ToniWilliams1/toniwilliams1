@@ -7,7 +7,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-I am a full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I lovesolving problems and programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
+I am a full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I love to solve problems by programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
 </details>
 
   - 📉 I’m currently working on MERN stack projects.

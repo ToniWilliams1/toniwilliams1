@@ -4,11 +4,11 @@
 ![Blue and Green Blobs Modern Tech Corporate X-Frame Banner](https://user-images.githubusercontent.com/100317017/203213505-48794edf-1fa2-4e0b-87dc-87b24fe383d5.png)
 
 
-<!-- <details>
+ <details>
 <summary>About Me</summary>
 <br>
 Over the years, I've had the privelege of working with great software. In my past experience, I've had to rely on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so individuals can have the best experience. My goal is to 
-</details> -->
+</details>
 
   - 📉 I’m currently working on MERN stack projects.
   - 💬 Ask me about HTML, CSS, JavaScript, OOP, React, Node.

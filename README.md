@@ -36,7 +36,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and connect to a feed where you can track your Crypto knowledge, and stay updated on the latest assets.</p>
+<p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and connect to a feed where you can track your Crypto knowledge, and stay updated on the latest assets.</p>
 </div>
   <h3 align="center" color="white">Haus of Naturals</h2>
 <div align="center"   
@@ -52,7 +52,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can request custom orders
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can request custom orders
 </td>
 <td width="50%">
 <h3 align="center" color="white">City Spaces</h2>
@@ -73,10 +73,10 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Full stack web application where you can discuss the latest public NYC events.</p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save the opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
 </div>
   <h3 align="center" color="white">Top Shot</h2>
-<div align="center" >  
+<div align="center >  
 <a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
 </a>
 <!-- https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557-8d86-cbffa6ba27e3.mov -->

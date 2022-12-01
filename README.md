@@ -55,7 +55,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <p><strong>JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can request custom orders
 </td>
 <td width="50%">
-<h3 align="center" color="white">CitySpace NY</h2>
+<h3 align="center" color="white">City Spaces</h2>
 <div align="center" >  
  
 

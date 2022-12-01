@@ -7,7 +7,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Over the years, I've had the privelege of working with great software. In my past experience, I've had to rely on was not updated to support the rise of crime in our city. I felt called to write better code to fix these systems so individuals can have the best experience. My goal is to 
+I am a full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I lovesolving problems and programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
 </details>
 
   - 📉 I’m currently working on MERN stack projects.

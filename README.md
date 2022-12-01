@@ -88,7 +88,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this local photographer's portfolio site.</p>
 </div>
 </table>
-   <h2 align="center"> Contact </h2>
+   <h2 align="center"> Contact Information </h2>
 <div id="badges">
   <img a href="https://www.linkedin.com/in/toniwilliamsdev/" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/-Portfolio-lightgrey" alt="Portfolio Badge"/>

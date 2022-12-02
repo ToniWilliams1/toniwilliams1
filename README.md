@@ -31,7 +31,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong> JavaScript, Node.js, Express.js, MongoDB</strong> - Full stack web application where users can log in via Coinbase and stay updated on the latest assets.</p>
+<p><strong> JavaScript, Node.js, Express.js, MongoDB, Tailwind</strong> - Full stack web application where users can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
   <h3 align="center" color="white">Haus of Naturals</h2>
 <div align="center"   
@@ -47,7 +47,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong> JavaScript, Node.js, Express.js, MongoDB </strong> - Full stack web application where customers can request custom orders
+<p><strong> JavaScript, Node.js, Express.js, MongoDB, Tailwind </strong> - Full stack web application where customers can request custom orders
 </td>
 <td width="50%">
 <h3 align="center" color="white">City Spaces</h2>

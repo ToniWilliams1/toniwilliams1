@@ -7,7 +7,7 @@
  <details>
 <summary> About Me</summary>
 <br>
-I am a creative and detail-oriented full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I love to solve problems by programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
+I am a creative and detail-oriented full stack software engineer experienced in JavaScript, Node, React, and MongoDB. With my experience in the criminal justice industry, I love to solve problems by programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
 </details>
 
 

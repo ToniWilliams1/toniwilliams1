@@ -7,7 +7,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-I am a full stack software engineer experienced in JavaScript, Node, React, and MongoDB. I love to solve problems by programming. I am passionate about using technology to solve problems and building semantically structured full stack web applications.
+Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. My prior experience with the government inspired me to learn how to improve website navigation issues. I have a deep interest in creating systems that improve even the smallest of user satisfaction. I have a proven track record of building successful web applications for clients, contributing to free open source, and volunteering with Grassroots organizations. 
 </details>
 
   <!-- <a href="https://twitter.com/tonistechtalk">

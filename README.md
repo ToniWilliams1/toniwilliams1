@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-![Blue and Green Blobs Modern Tech Corporate X-Frame Banner](https://user-images.githubusercontent.com/100317017/203213505-48794edf-1fa2-4e0b-87dc-87b24fe383d5.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/100317017/205678611-29c31154-5659-4bab-b084-b986b2a8e515.png)
 
 
  <details>

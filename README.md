@@ -51,7 +51,6 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </a>
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
-</td>
             </div>
 <td width="50%">
 <h2 align="center" color="white">City Spaces</h2>

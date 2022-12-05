@@ -7,7 +7,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. My prior experience with the government inspired me to learn how to improve website navigation issues. I have a deep interest in creating systems that improve even the smallest of user satisfaction. I have a proven track record of building successful web applications for clients, contributing to free open source, and volunteering with Grassroots organizations. 
+Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in government agencies, I became inspired to learn how to write code to build quality software that solves problems. I have a proven track record of building successful full stack web applications for clients, contributing to free open source, and volunteering with grassroots organizations. 
 </details>
 
   <!-- <a href="https://twitter.com/tonistechtalk">

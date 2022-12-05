@@ -91,12 +91,12 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this locall photographer's portfolio site.</p>
 </div>
-<div align="center">
+</table>
+                                                                                       <div align="center">
 ## Contact
 <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</table>
   
 
 

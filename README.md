@@ -56,9 +56,9 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
 </td>
 <td width="50%">
-<h3 align="center" color="white">City Spaces</h2>
+<h2 align="center" color="white">City Spaces</h2>
 <div align="center" >  
-<img width="1437" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">
+<img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">
 
 
 

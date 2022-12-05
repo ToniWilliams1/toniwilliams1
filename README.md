@@ -2,7 +2,7 @@
 
 
 <div align="center">
-![Screenshot (22)](https://user-images.githubusercontent.com/100317017/205682908-0bff7631-4a0b-4881-81dd-1e7c80238287.png)
+<img src="https://user-images.githubusercontent.com/100317017/205682908-0bff7631-4a0b-4881-81dd-1e7c80238287.png")
             </div>
 
  <details>

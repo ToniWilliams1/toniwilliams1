@@ -11,9 +11,7 @@
 Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in government agencies, I became inspired to learn how to write code to build quality software that solves problems. I have a proven track record of building successful full stack web applications for clients, contributing to free open source, and volunteering with grassroots organizations. 
 </details>
 
-  <!-- <a href="https://twitter.com/tonistechtalk">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)!![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
@@ -95,6 +93,11 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this locall photographer's portfolio site.</p>
 </div>
+<div align="center">
+## Contact
+<a href="https://twitter.com/tonistechtalk">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </table>
   
 

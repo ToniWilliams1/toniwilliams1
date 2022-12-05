@@ -54,7 +54,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
             </div>
 <td width="50%">
 <h2 align="center" color="white">City Spaces</h2>
- <div align="center" > </div> 
+ <div align="center" > 
 <img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">
 
 <a href='https://toniwilliams.netlify.app'>

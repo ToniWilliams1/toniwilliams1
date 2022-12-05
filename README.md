@@ -13,7 +13,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 
   
 </div>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)! [NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 
 <h2 align="center"> Recent Projects </h2>
 <div align="center">
@@ -54,6 +54,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
 </td>
+            </div>
 <td width="50%">
 <h2 align="center" color="white">City Spaces</h2>
  <div align="center" > </div> 

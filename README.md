@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Toni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-
+<div align="center>
 ![Screenshot (22)](https://user-images.githubusercontent.com/100317017/205682908-0bff7631-4a0b-4881-81dd-1e7c80238287.png)
-
+            </div>
 
  <details>
 <summary>About Me</summary>

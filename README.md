@@ -51,7 +51,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
   <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
@@ -73,7 +73,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://toniwilliams.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save the opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
@@ -90,7 +90,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
 <a href="nasas-astronomy-picture-of-the-day.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this locall photographer's portfolio site.</p>

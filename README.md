@@ -41,9 +41,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
- <img width="1435" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/205556833-72b2dfd7-612d-4026-b0f9-66897b333336.png">
-
-<br>
+ <img width="1400" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/205556833-72b2dfd7-612d-4026-b0f9-66897b333336.png">>
 <br>
 <p>
   <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">

@@ -38,7 +38,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
-  <h3 align="center" color="white">Haus of Naturals</h2>
+  <h3 align="center" color="white">Legal Discovery Checklist</h2>
 <div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
@@ -52,7 +52,7 @@ I am a full stack software engineer experienced in JavaScript, Node, React, and 
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where customers can request custom orders
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
 </td>
 <td width="50%">
 <h3 align="center" color="white">City Spaces</h2>

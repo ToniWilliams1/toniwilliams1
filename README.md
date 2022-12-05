@@ -41,7 +41,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 
 </a>
- <img width="1400" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/205556833-72b2dfd7-612d-4026-b0f9-66897b333336.png">>
+ <img width="1400" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/205556833-72b2dfd7-612d-4026-b0f9-66897b333336.png">
 <br>
 <p>
   <a href="https://github.com/toniwilliams1/levelground-mma" target="_blank">
@@ -52,7 +52,6 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
             </div>
-<td width="50%">
 <h2 align="center" color="white">City Spaces</h2>
  <div align="center" > 
 <img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">
@@ -86,14 +85,16 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this locall photographer's portfolio site.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this local hair stylists's portfolio site.</p>
 </div>
 </table>
-                                                                                       <div align="center">
+                                                                                    
 ## Contact
+<div align="center">
 <a href="https://twitter.com/tonistechtalk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+                                                                                                                             </div>
   
 
 

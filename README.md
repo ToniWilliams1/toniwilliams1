@@ -72,23 +72,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save the opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
 </div>
-  <h3 align="center" color="white">Top Shot</h2>
-<div align="center >  
-<a href='https://nasas-astronomy-picture-of-the-day.netlify.app/'>
-</a>
-<img src="https://user-images.githubusercontent.com/100317017/201561706-cff21eeb-cab1-4557-8d86-cbffa6ba27e3.mov">
-<br>
-<br>
-<p>
-<a href="https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-</a>  
-<a href="nasas-astronomy-picture-of-the-day.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong>JavaScript, HTML5, CSS3</strong> -A fully modern, beautiful, and responsive website for this local hair stylists's portfolio site.</p>
-</div>
+ 
 </table>
                                                                                     
 ## Contact

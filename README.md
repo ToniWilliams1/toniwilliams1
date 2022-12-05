@@ -34,7 +34,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
   <a href="https://github.com/toniwilliams1/crypto-connect" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 <a href="https://crpyotconnect.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>

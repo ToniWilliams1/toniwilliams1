@@ -37,27 +37,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
-            <div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center" color="white">Crypto Connect</h2>
-<div align="center" > 
-  <img width="1400" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/204716579-c7f8654a-5ed9-4a1e-a67e-fab2c854864b.png">
 
-<a href='https://cryptoconnect.netlify.app/'> 
-</a>
-<br>
-<br>
-<p>
-  <a href="https://github.com/toniwilliams1/crypto-connect" target="_blank"> 
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://crpyotconnect.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
-</div>
             <td width="50%">
 
   <h3 align="center" color="white">Legal Discovery Checklist</h2>

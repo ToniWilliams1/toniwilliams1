@@ -38,8 +38,6 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
 
-            <td width="50%">
-
   <h3 align="center" color="white">Legal Discovery Checklist</h2>
 <div align="center"   
 <a href='https://github.com/toniwilliams01/levelground-MMA'> 

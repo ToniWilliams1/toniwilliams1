@@ -69,7 +69,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save the opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where you can get information on volunteer opportunities around New York City, save opportunities you'd like to volunteer, and facilitate reflection discussions.</p>
 </div>
  
 </table>

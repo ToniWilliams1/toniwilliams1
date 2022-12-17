@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in government agencies, I became inspired to learn how to write code to build quality software that solves problems. I have a proven track record of building successful full stack web applications for clients, contributing to free open source, and volunteering with grassroots organizations. 
+Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in government agencies, I became inspired to learn how to write code to build quality software so users can have the best experience. I have a proven track record of building successful full stack web applications for agency clients, contributing to free open source software, and volunteering with grassroots organizations. 
 </details>
 
   

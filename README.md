@@ -29,7 +29,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <br>
 <br>
 <p>
-  <a href="https://github.com/toniwilliams1/crypto-connect" target="_blank"> 
+  <a href="https://github.com/ToniWilliams1/CryptoConnect" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 <a href="https://crpyotconnect.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>

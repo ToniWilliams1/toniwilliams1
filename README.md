@@ -74,23 +74,24 @@ Building software that solves problems is what I do. I am a meticulous and detai
  
   <div align="center">
 <tr>
-<td width="50%">
+<td width="50%"><
+
 <h3 align="center" color="white">Goddess Styles</h2>
 <div align="center" > 
-  <img width="1400" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/204716579-c7f8654a-5ed9-4a1e-a67e-fab2c854864b.png">
+  <img width="1437" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/208272438-bee6e67b-9bab-48da-898b-3f2584b9cc0c.png">
 
-<a href='https://cryptoconnect.netlify.app/'> 
+<a href='https://goddesshairsalon.netlify.app/'> 
 </a>
 <br>
 <br>
 <p>
-  <a href="https://github.com/toniwilliams1/crypto-connect" target="_blank"> 
+  <a href="https://github.com/ToniWilliams1/GoddessHairSalon" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 <a href="https://goddesshairsalon.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> HTML, CSS, CSCC, Netflify </strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
+<p><strong>  CSS, HTML, Netflify, SCSS </strong> - A modern, fully responsive, and semantically structured web application for Goddess Styles. This application allows prospective customers to submit inquiries directly to the stylist.</p>
 </div>
 </table>
                                                                                     

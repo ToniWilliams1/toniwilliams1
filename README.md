@@ -74,7 +74,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
  
   <div align="center">
 <tr>
-<td width="50%"><
+<td width="50%">
 
 <h3 align="center" color="white">Goddess Styles</h2>
 <div align="center" > 

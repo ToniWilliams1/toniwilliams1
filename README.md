@@ -24,14 +24,14 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <div align="center" > 
   <img width="1400" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/204716579-c7f8654a-5ed9-4a1e-a67e-fab2c854864b.png">
 
-<a href='https://cryptoconnect.netlify.app/'> 
+<a href='https://officialcryptoconnect.herokuapp.com//'> 
 </a>
 <br>
 <br>
 <p>
   <a href="https://github.com/ToniWilliams1/CryptoConnect" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://crpyotconnect.app/" target="_blank">
+<a href="https://officialcryptoconnect.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>

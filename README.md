@@ -8,7 +8,8 @@
  <details>
 <summary>About Me</summary>
 <br>
-Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in consulting agencies, I became inspired to learn how to write code to build quality software so users can have the best experience. I have a proven track record of building successful full stack web applications for agency clients, contributing to free open source software, and volunteering with grassroots organizations. 
+Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in consulting agencies, I became inspired to learn how to write code to build quality software so users can have the best experience. I have a proven track record of building successful full stack web applications for agency clients, contributing to free open source software, and volunteering with grassroots organizations.
+      https://github-readme-stats.vercel.app/api/top-langs/?username={toniwilliams1}       
 </details>
 
   
@@ -102,7 +103,9 @@ Building software that solves problems is what I do. I am a meticulous and detai
   </a>
   <a href="https://toniwilliamsdev.com/">
    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
-    <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>                                                            </div>
+    <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>        
+              <a href="https://www.linkedin.com/in/toniwilliamsdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+                          </div>
   
 
 

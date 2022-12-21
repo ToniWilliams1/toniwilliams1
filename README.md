@@ -101,7 +101,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
             <a href="https://toniwilliamsdev.com/">
-           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
+           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
                                                                                                                              </div>
   
 

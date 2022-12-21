@@ -102,7 +102,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
   </a>
             <a href="https://toniwilliamsdev.com/">
            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
-                                                                                                                             </div>
+                        <a href="https://www.codewars.com/users/toniwilliams1" ><img src-"https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>                                                            </div>
   
 
 

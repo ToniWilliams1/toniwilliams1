@@ -38,7 +38,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
 
-  <h3 align="center" color="white">Legal Discovery Checklist</h2>
+<!--   <h3 align="center" color="white">Legal Discovery Checklist</h2>
 <div align="center"   
 <a href='https://github.com/toniwilliams01/discoverychecklist'>
 </a>
@@ -52,7 +52,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 </a>
 </p>
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
-            </div>
+            </div> -->
 <h2 align="center" color="white">City Spaces NY</h2>
  <div align="center" > 
 <img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">

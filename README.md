@@ -79,7 +79,7 @@ Building software that solves problems is what I do. I am a meticulous and detai
 <h3 align="center" color="white">Goddess Styles</h2>
 <div align="center" > 
 
-  <img width="900" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209588766-86fa143d-7350-4799-a243-5584ad8aab4c.gif">
+  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209588766-86fa143d-7350-4799-a243-5584ad8aab4c.gif">
 
 <a href='https://goddesshairsalon.netlify.app/'> 
 </a>

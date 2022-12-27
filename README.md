@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Building software that solves problems is what I do. I am a meticulous and detail-oriented software engineer specializing in Full Stack Web Development. With experience in consulting agencies, I became inspired to learn how to write code to build quality software so users can have the best experience. I have a proven track record of building successful full stack web applications for agency clients, contributing to free open source software, and volunteering with grassroots organizations.
+Designing, building, innovating, and launching software to help businesses is what I do! My name is Toni and I am a meticulous and detail-oriented full-stack software engineer who takes on any challenge with excitement and determination. After seeing many businesses fall behind in the age of technology due to the lack of quality web applications, I was inspired to pursue my dream of learning how to code. Now, I want to help you build quality software using best practices, technologies, and methodologies. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence.
 </details>
 
   

@@ -107,6 +107,31 @@ Designing, building, innovating, and launching software to help businesses is wh
 </p>
 <p><strong>  CSS, HTML, Netflify, SCSS </strong> - A modern, fully responsive, and semantically structured web application for Goddess Styles. This application allows prospective customers to submit inquiries directly to the stylist.</p>
 </div>
+             <div align="center">
+<tr>
+<td width="50%">
+
+<h3 align="center" color="white">Goddess Styles</h2>
+<div align="center" > 
+
+
+            
+            
+  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209764932-64318be4-489e-41e4-9bb1-34237e0d6a92.gif">
+
+<a href='https://goddesshairsalon.netlify.app/'> 
+</a>
+<br>
+<br>
+<p>
+  <a href="https://github.com/ToniWilliams1/GoddessHairSalon" target="_blank"> 
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+<a href="https://goddesshairsalon.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
+</a>
+</p>
+<p><strong>  CSS, HTML, Netflify, SCSS </strong> - A modern, fully responsive, and semantically structured web application for Goddess Styles. This application allows prospective customers to submit inquiries directly to the stylist.</p>
+</div>
 </table>
               
  ## Skills

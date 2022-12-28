@@ -79,7 +79,10 @@ Designing, building, innovating, and launching software to help businesses is wh
 <h3 align="center" color="white">Goddess Styles</h2>
 <div align="center" > 
 
-  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209588766-86fa143d-7350-4799-a243-5584ad8aab4c.gif">
+
+            
+            
+  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209763329-58c7e9d8-6de6-4732-b324-f5118eb4ba6c.gif">
 
 <a href='https://goddesshairsalon.netlify.app/'> 
 </a>

@@ -111,26 +111,24 @@ Designing, building, innovating, and launching software to help businesses is wh
 <tr>
 <td width="50%">
 
-<h3 align="center" color="white">Goddess Styles</h2>
+<h3 align="center" color="white">Space Exploration</h2>
 <div align="center" > 
-
-
             
             
-  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209764932-64318be4-489e-41e4-9bb1-34237e0d6a92.gif">
+  <img width="700" alt="Space Exploration" src="https://user-images.githubusercontent.com/100317017/209873864-ea58cdeb-6e69-4db5-8243-40cf2dcdd583.gif">
 
-<a href='https://goddesshairsalon.netlify.app/'> 
+<a href='https://nasas-astronomy-picture-of-the-day.netlify.app'> 
 </a>
 <br>
 <br>
 <p>
-  <a href="https://github.com/ToniWilliams1/GoddessHairSalon" target="_blank"> 
+  <a href="https://github.com/ToniWilliams1/NASA-Astronomy-Picture-Of-The-Day" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://goddesshairsalon.netlify.app" target="_blank">
+<a href="https://nasas-astronomy-picture-of-the-day.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong>  CSS, HTML, Netflify, SCSS </strong> - A modern, fully responsive, and semantically structured web application for Goddess Styles. This application allows prospective customers to submit inquiries directly to the stylist.</p>
+<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.</p>
 </div>
 </table>
               

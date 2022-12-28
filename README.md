@@ -57,7 +57,7 @@ Designing, building, innovating, and launching software to help businesses is wh
  <div align="center"> 
     
              
-<img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/209763409-15008b9f-f360-4d09-b7c1-27c34e3194e6.gif">
+<img width="700" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/209763409-15008b9f-f360-4d09-b7c1-27c34e3194e6.gif">
 
 <a href='https://github.com/ToniWilliams1/CitySpaces'>
 </a>
@@ -84,7 +84,7 @@ Designing, building, innovating, and launching software to help businesses is wh
 
             
             
-  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209763329-58c7e9d8-6de6-4732-b324-f5118eb4ba6c.gif">
+  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209764932-64318be4-489e-41e4-9bb1-34237e0d6a92.gif">
 
 <a href='https://goddesshairsalon.netlify.app/'> 
 </a>

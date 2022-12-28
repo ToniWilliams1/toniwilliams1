@@ -130,6 +130,27 @@ Designing, building, innovating, and launching software to help businesses is wh
 </p>
 <p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.</p>
 </div>
+            <td width="50%">
+
+<h3 align="center" color="white">L U X E Bar</h2>
+<div align="center" > 
+            
+            
+  <img width="700" alt="Space Exploration" src="https://user-images.githubusercontent.com/100317017/209873864-ea58cdeb-6e69-4db5-8243-40cf2dcdd583.gif">
+
+<a href='https://luxebar.netlify.app'> 
+</a>
+<br>
+<br>
+<p>
+  <a href="https://github.com/ToniWilliams1/LUXE-BAR" target="_blank"> 
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+<a href="https://luxebar.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
+</a>
+</p>
+<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Choose your drink, and browse through over 600 drinks and 489 ingredients. If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random.</p>
+</div>
 </table>
               
  ## Skills

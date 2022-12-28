@@ -54,8 +54,10 @@ Designing, building, innovating, and launching software to help businesses is wh
 <p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
             </div> -->
 <h2 align="center" color="white">City Spaces NY</h2>
- <div align="center" > 
-<img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/205557131-acd10434-eb11-4694-8228-3769d2573e97.png">
+ <div align="center"> 
+    
+             
+<img width="1400" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/209763409-15008b9f-f360-4d09-b7c1-27c34e3194e6.gif">
 
 <a href='https://github.com/ToniWilliams1/CitySpaces'>
 </a>

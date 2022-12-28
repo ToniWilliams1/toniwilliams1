@@ -24,13 +24,14 @@ Designing, building, innovating, and launching software to help businesses is wh
 <div align="center" > 
             
             
+![CC](https://user-images.githubusercontent.com/100317017/209868034-91c35481-5d9c-419d-9e26-1e238717d982.gif)
 
 
 
             
             
             
-  <img width="700" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/209867438-64ce48b4-e8ca-45ce-bfcb-f67e7a61781b.mp4">
+  <img width="700" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/209868034-91c35481-5d9c-419d-9e26-1e238717d982.gif">
 
 <a href='https://officialcryptoconnect.herokuapp.com//'> 
 </a>

@@ -20,31 +20,7 @@ Designing, building, innovating, and launching software to help businesses is wh
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Crypto Connect</h2>
-<div align="center" > 
-            
-            
 
-
-
-            
-            
-            
-  <img width="700" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/209868034-91c35481-5d9c-419d-9e26-1e238717d982.gif">
-
-<a href='https://officialcryptoconnect.herokuapp.com//'> 
-</a>
-<br>
-<br>
-<p>
-  <a href="https://github.com/ToniWilliams1/CryptoConnect" target="_blank"> 
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://officialcryptoconnect.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
-</div>
 
 <!--   <h3 align="center" color="white">Legal Discovery Checklist</h2>
 <div align="center"   
@@ -155,6 +131,31 @@ Designing, building, innovating, and launching software to help businesses is wh
 <p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Fully responsive and semantically structured web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.
 
 </p>
+</div>
+                        <h3 align="center" color="white">Crypto Connect</h2>
+<div align="center" > 
+            
+            
+
+
+
+            
+            
+            
+  <img width="700" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/209868034-91c35481-5d9c-419d-9e26-1e238717d982.gif">
+
+<a href='https://officialcryptoconnect.herokuapp.com//'> 
+</a>
+<br>
+<br>
+<p>
+  <a href="https://github.com/ToniWilliams1/CryptoConnect" target="_blank"> 
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+<a href="https://officialcryptoconnect.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
+</a>
+</p>
+<p><strong> JavaScript, Node, Express, MongoDB</strong> - Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
 </table>
               

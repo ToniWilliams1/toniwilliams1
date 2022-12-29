@@ -130,6 +130,7 @@ Designing, building, innovating, and launching software to help businesses is wh
 </p>
 <p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.</p>
 </div>
+<tr>
             <td width="50%">
 
 <h3 align="center" color="white">L U X E Bar</h2>

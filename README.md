@@ -133,24 +133,28 @@ Designing, building, innovating, and launching software to help businesses is wh
 <tr>
             <td width="50%">
 
-<h3 align="center" color="white">L U X E Bar</h2>
+<h3 align="center" color="white">Top Shot Photography</h2>
 <div align="center" > 
             
             
-  <img width="700" alt="Space Exploration" src="https://user-images.githubusercontent.com/100317017/209873864-ea58cdeb-6e69-4db5-8243-40cf2dcdd583.gif">
+            
+            
+  <img width="700" alt="Space Exploration" src="https://user-images.githubusercontent.com/100317017/209905759-bf834504-9ce1-44ee-a8f2-5bbadf29cabe.gif">
 
-<a href='https://luxebar.netlify.app'> 
+<a href='https://topshotphotography.netlify.app/'> 
 </a>
 <br>
 <br>
 <p>
-  <a href="https://github.com/ToniWilliams1/LUXE-BAR" target="_blank"> 
+  <a href="https://github.com/ToniWilliams1/TopShotPhotography" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://luxebar.netlify.app" target="_blank">
+<a href="https://topshotphotography.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Choose your drink, and browse through over 600 drinks and 489 ingredients. If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random.</p>
+<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Fully responsive and semantically structured web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.
+
+</p>
 </div>
 </table>
               

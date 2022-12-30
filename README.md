@@ -22,21 +22,7 @@ Designing, building, innovating, and launching software to help businesses is wh
 <td width="50%">
 
 
-<!--   <h3 align="center" color="white">Legal Discovery Checklist</h2>
-<div align="center"   
-<a href='https://github.com/toniwilliams01/discoverychecklist'>
-</a>
- <img width="1400" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/205556833-72b2dfd7-612d-4026-b0f9-66897b333336.png">
-<br>
-<p>
-  <a href="https://github.com/ToniWilliams1/DiscoveryChecklist" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://github.com/ToniWilliams1/DiscoveryChecklist" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - Full stack web application where employees can track cases and discovery requests for trial.
-            </div> -->
+
 <h2 align="center" color="white">City Spaces NY</h2>
  <div align="center"> 
     

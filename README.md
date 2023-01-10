@@ -158,7 +158,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
               <a href="https://medium.com/@toniwilliamsdev">
                           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
               </a>
-              <p> Please feel free to reach outwith any questions you'd like naswered, or if you'd like somee help or to hire me for a project of yours!
+              <p> Please feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
                           </div>
   
 

@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is what I do! My name is Toni and I am a meticulous and detail-oriented full-stack software engineer who takes on any challenge with excitement and determination. After seeing businesses fall behind in the age of technology due to the lack of quality web applications, I was inspired to pursue my dream of learning how to code to help build quality software using best practices, technologies, and methodologies. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
+Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion. My name is Toni and I am a meticulous and detail-oriented full-stack software engineer who takes on any challenge with excitement and determination. After seeing businesses fall behind in the age of technology due to the lack of quality web applications, I was inspired to pursue my dream of learning how to code to help build quality software using best practices, technologies, and methodologies. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
 </details>
 
   
@@ -114,7 +114,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Fully responsive and semantically structured web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.
+<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS, SCSS </strong> - Fully responsive and semantically structured web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.
 
 </p>
 </div>

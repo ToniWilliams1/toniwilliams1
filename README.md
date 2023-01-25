@@ -161,7 +161,7 @@ Full stack web application where you can log in via Coinbase and stay updated on
               <p> Please feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
                           </div>
   
-![snake animation](https://github.com/toniwilliams1/toniwilliams1/blob/output/github-contribution-grid-snake2.svg)
+[snake animation](https://github.com/toniwilliams1/toniwilliams1/blob/output/github-contribution-grid-snake2.svg)
 
 
   

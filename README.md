@@ -141,7 +141,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB</strong> - Never miss a crypto trend again. With Crypto Connect, users can manage their crypto assets and rank other users' crypto trades.
+<p><strong> JavaScript, Node, Express, MongoDB, Tailwind CSS</strong> - Never miss a crypto trend again. With Crypto Connect, users can manage their crypto assets and rank other users' crypto trades.
 Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
 </div>
 </table>

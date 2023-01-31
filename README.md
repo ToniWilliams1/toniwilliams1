@@ -41,7 +41,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - With CitySpaces NY, all volunteer opportunities in New York City are in one spot, available to view and save at the click of a button. Full stack web application where you can get information on volunteer opportunities around New York City, save opportunities you'd like to volunteer, facilitate reflection discussions, and view real-time weather data.</p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - With City Spaces NY, all volunteer opportunities in New York City are in one spot, available to view and save at the click of a button. Full stack web application where you can get information on volunteer opportunities around New York City, save opportunities you'd like to volunteer, facilitate reflection discussions, and view real-time weather data.</p>
 </div>
  
   <div align="center">

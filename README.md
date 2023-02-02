@@ -111,7 +111,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
   <a href="https://github.com/ToniWilliams1/TopShotPhotography" target="_blank"> 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 <a href="https://topshotphotography.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
+<img src="https://img.shields.io/badge/-demo-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
 <p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS, SCSS </strong> - Fully responsive and semantically structured one-page web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.

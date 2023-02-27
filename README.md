@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion! My name is Toni and I am a meticulous and detail-oriented full-stack software engineer at 100Devs. I take on any challenge with excitement and determination. After seeing businesses fall behind in the age of technology due to the lack of quality web applications, I was inspired to pursue my dream of learning how to code to help build quality software using best practices, technologies, and methodologies. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
+Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion! My name is Toni and I am a meticulous and detail-oriented full-stack software engineer. I take on any challenge with excitement and determination. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
 </details>
 
   
@@ -23,7 +23,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 
 
 
-<h2 align="center" color="white">City Spaces NY</h2>
+<h2 align="center" color="white">City Spaces NYC</h2>
  <div align="center"> 
     
              
@@ -41,7 +41,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - With City Spaces NY, all volunteer opportunities in New York City are in one spot, available to view and save at the click of a button. Full stack web application where you can get information on volunteer opportunities around New York City, save opportunities you'd like to volunteer, facilitate reflection discussions, and view real-time weather data.</p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - With City Spaces NYC, all volunteer opportunities in New York City are in one spot, available to view and save at the click of a button. Full stack web application where you can get information on volunteer opportunities around New York City, and save opportunities you'd like to volunteer, facilitate reflection discussions.</p>
 </div>
  
   <div align="center">

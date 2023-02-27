@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion! My name is Toni and I am a meticulous and detail-oriented full-stack software engineer. I take on any challenge with excitement and determination. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
+Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion! I am a meticulous and detail-oriented full-stack software engineer. I take on any challenge with excitement and determination. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
 </details>
 
   

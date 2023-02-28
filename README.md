@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-Welcome to my GitHub! Designing, building, innovating, and launching software that helps businesses is my passion! I am a meticulous and detail-oriented full-stack software engineer. I take on any challenge with excitement and determination. I'm passionate about delivering successful web applications built from the ground up to help small businesses visions to life and establish their online presence. 
+As a full-stack software engineer, I have a passion for problem-solving and thrive on the challenge of delivering real-world solutions. With a strong background in the MERN stack, I have honed my skills over the years to develop a deep understanding of technology and its potential to create powerful applications. I am a self-taught professional who has gained experience through hands-on projects and collaboration with peers. This community-driven approach has allowed me to develop a unique perspective that blends technical expertise with creativity and innovation. I am excited to take on new challenges and use my skills to tackle complex problems in today's fast-paced digital landscape. I believe that software engineering has the power to make a positive impact on the world, and I am driven to contribute to this mission by developing innovative solutions that address real-world challenges. If you're looking for a passionate, determined, and innovative software engineer to join your team, I would love to connect and discuss how we can work together to bring your vision to life. 
 </details>
 
   
@@ -41,34 +41,10 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - With City Spaces NYC, all volunteer opportunities in New York City are in one spot, available to view and save at the click of a button. Full stack web application where you can get information on volunteer opportunities around New York City, and save opportunities you'd like to volunteer, facilitate reflection discussions.</p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - City Spaces NYC is an innovative platform that consolidates volunteer opportunities in New York City into a single, easy-to-use portal, making it effortless for users to discover and engage in volunteer work. A comprehensive resource for anyone interested in giving back to their community. Users can login, save the organizations they'd like to volunteer with, and facilitate reflection discussions. </p>
 </div>
  
-  <div align="center">
-<tr>
-<td width="50%">
 
-<h3 align="center" color="white">Goddess Styles</h2>
-<div align="center" > 
-
-
-            
-            
-  <img width="700" alt="GODDESSHAIRSALON" src="https://user-images.githubusercontent.com/100317017/209764932-64318be4-489e-41e4-9bb1-34237e0d6a92.gif">
-
-<a href='https://goddesshairsalon.netlify.app/'> 
-</a>
-<br>
-<br>
-<p>
-  <a href="https://github.com/ToniWilliams1/GoddessHairSalon" target="_blank"> 
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://goddesshairsalon.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong>  CSS, HTML, Netflify, SCSS </strong> - A modern, fully responsive, and semantically structured web application for Goddess Styles. This application allows prospective customers to submit inquiries directly to the stylist.</p>
-</div>
              <div align="center">
 <tr>
 <td width="50%">
@@ -92,32 +68,10 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 </p>
 <p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS </strong> - Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.</p>
 </div>
-<tr>
-            <td width="50%">
 
-<h3 align="center" color="white">Top Shot Photography</h2>
-<div align="center" > 
-            
-            
-            
-            
-  <img width="700" alt="Space Exploration" src="https://user-images.githubusercontent.com/100317017/209905759-bf834504-9ce1-44ee-a8f2-5bbadf29cabe.gif">
+      
 
-<a href='https://topshotphotography.netlify.app/'> 
-</a>
-<br>
-<br>
-<p>
-  <a href="https://github.com/ToniWilliams1/TopShotPhotography" target="_blank"> 
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://topshotphotography.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-demo-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong>  CSS, HTML, JavaScript, Netflify, Node.JS, SCSS </strong> - Fully responsive and semantically structured one-page web application for a local photographer. Users can learn about photographer, view photo their gallery, and schedule a shoot consultation.
 
-</p>
-</div>
                         <h3 align="center" color="white">Crypto Connect</h2>
 <div align="center" > 
             
@@ -141,8 +95,7 @@ Welcome to my GitHub! Designing, building, innovating, and launching software th
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB, Tailwind CSS</strong> - Never miss a crypto trend again. With Crypto Connect, users can manage their crypto assets and rank other users' crypto trades.
-Full stack web application where you can log in via Coinbase and stay updated on the latest assets.</p>
+<p><strong> JavaScript, Node, Express, MongoDB, Tailwind CSS</strong> - Full stack web application that enables users to manage their crypto assets and rank other users' crypto trades, giving them an edge in a rapidly evolving market. The platform is built using a NodeJS and ExpressJS backend, OAuth for user authentication, and PassportJS Coinbase Authentication Strategy, resulting in a secure and reliable user experience. Crypto Connect leverages live detailed crypto market data to give users real-time insights into market trends and opportunities, empowering them to make informed investment decisions.</p>
 </div>
 </table>
               
@@ -158,10 +111,8 @@ Full stack web application where you can log in via Coinbase and stay updated on
               <a href="https://medium.com/@toniwilliamsdev">
                           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
               </a>
-              <p> Please feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
                           </div>
   
-[snake animation](https://github.com/toniwilliams1/toniwilliams1/blob/output/github-contribution-grid-snake2.svg)
 
 
   

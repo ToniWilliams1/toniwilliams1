@@ -27,7 +27,8 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
  <div align="center"> 
     
              
-<img width="700" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/209763409-15008b9f-f360-4d09-b7c1-27c34e3194e6.gif">
+<img width="700" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/221982633-b26be9d2-c6f4-471c-9a5d-b57f2ecc7d22.gif
+">
 
 <a href='https://github.com/ToniWilliams1/CitySpaces'>
 </a>

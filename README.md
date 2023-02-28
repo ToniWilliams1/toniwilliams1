@@ -49,7 +49,7 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
 <tr>
 <td width="50%">
 
-<h3 align="center" color="white">NASA Space Exploration</h2>
+<h2 align="center" color="white">NASA Space Exploration</h2>
 <div align="center" > 
             
             
@@ -72,7 +72,7 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
       
 
 
-                        <h3 align="center" color="white">Crypto Connect</h2>
+                        <h2 align="center" color="white">Crypto Connect</h2>
 <div align="center" > 
             
             
@@ -106,7 +106,7 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://toniwilliamsdev.com/">
-   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.TW&logoColor=white"</a>
         <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>              <a href="https://www.linkedin.com/in/toniwilliamsdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
               <a href="https://medium.com/@toniwilliamsdev">
                           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">

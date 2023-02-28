@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100317017/221982858-b3b4f3a8-f83c-4509-8221-61402726fee3.gif">
+
             </div>
 
  <details>
@@ -27,8 +27,8 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
  <div align="center"> 
     
              
-<img width="700" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/221982633-b26be9d2-c6f4-471c-9a5d-b57f2ecc7d22.gif
-">
+<img width="700" alt="cityspacehome" src="https://user-images.githubusercontent.com/100317017/221982858-b3b4f3a8-f83c-4509-8221-61402726fee3.gif">
+
 
 <a href='https://github.com/ToniWilliams1/CitySpaces'>
 </a>

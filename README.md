@@ -45,7 +45,6 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
 </div>
  
 
-             <div align="center">
 <tr>
 <td width="50%">
 

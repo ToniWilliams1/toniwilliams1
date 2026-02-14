@@ -8,9 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-As a full-stack software engineer, I have a passion for problem-solving and thrive on the challenge of delivering real-world solutions. With a strong background in the MERN stack, I have honed my skills over the years to develop a deep understanding of technology and its potential to create powerful applications. I am a self-taught professional who has gained experience through hands-on projects and collaboration with peers. This community-driven approach has allowed me to develop a unique perspective that blends technical expertise with creativity and innovation. I am excited to take on new challenges and use my skills to tackle complex problems in today's fast-paced digital landscape. I believe that software engineering has the power to make a positive impact on the world, and I am driven to contribute to this mission by developing innovative solutions that address real-world challenges. If you're looking for a passionate, determined, and innovative software engineer to join your team, I would love to connect and discuss how we can work together to bring your vision to life. 
-</details>
-
+I bring a unique perspective to the intersection of technology and security. Driven by curiosity, I committed 30 weeks to learn how to code through an organization called 100 Devs. I spent 30 weeks freelancing, volunteering with community initiatives like Grassroots Grocery, and building full-stack web applications using the MERN stack. Now, I am a graduate student working on obtaining my Master's Degree in Digital Forensics and Cybersecurity. I’m passionate about building secure, scalable systems that address modern security challenges.
   
 </div>
 
@@ -105,7 +103,7 @@ As a full-stack software engineer, I have a passion for problem-solving and thri
 <a href="https://twitter.com/toniwilliamsdev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://toniwilliamsdev.com/">
+  <a href=https://toniwilliamswebdev.onrender.com>
    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.TW&logoColor=white"</a>
         <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>              <a href="https://www.linkedin.com/in/toniwilliamsdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
               <a href="https://medium.com/@toniwilliamsdev">

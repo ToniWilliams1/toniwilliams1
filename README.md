@@ -40,7 +40,7 @@ I bring a unique perspective to the intersection of technology and security. Dri
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
 </a>
 </p>
-<p><strong> JavaScript, Node, Express, MongoDB </strong> - City Spaces NYC is an innovative platform that consolidates volunteer opportunities in New York City into a single, easy-to-use portal, making it effortless for users to discover and engage in volunteer work. A comprehensive resource for anyone interested in giving back to their community. Users can login, save the organizations they'd like to volunteer with, and facilitate reflection discussions. </p>
+<p><strong> JavaScript, Node, Express, MongoDB </strong> - City Spaces NYC is an innovative platform that consolidates volunteer opportunities in New York City into a single, easy-to-use portal, making it effortless for users to discover and engage in volunteer work. A comprehensive resource for anyone interested in giving back to their community. Users can log in, save the organizations they'd like to volunteer with, and facilitate reflection discussions. </p>
 </div>
  
 
@@ -69,31 +69,6 @@ I bring a unique perspective to the intersection of technology and security. Dri
 
       
 
-
-                        <h2 align="center" color="white">Crypto Connect</h2>
-<div align="center" > 
-            
-            
-
-
-
-            
-            
-            
-  <img width="700" alt="CryptoConnect" src="https://user-images.githubusercontent.com/100317017/209868034-91c35481-5d9c-419d-9e26-1e238717d982.gif">
-
-<a href='https://officialcryptoconnect.herokuapp.com//'> 
-</a>
-<br>
-<br>
-<p>
-  <a href="https://github.com/ToniWilliams1/CryptoConnect" target="_blank"> 
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-<a href="https://officialcryptoconnect.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=00C4CC"/>
-</a>
-</p>
-<p><strong> JavaScript, Node, Express, MongoDB, Tailwind CSS</strong> - Full stack web application that enables users to manage their crypto assets and rank other users' crypto trades, giving them an edge in a rapidly evolving market. The platform is built using a NodeJS and ExpressJS backend, OAuth for user authentication, and PassportJS Coinbase Authentication Strategy, resulting in a secure and reliable user experience. Crypto Connect leverages live detailed crypto market data to give users real-time insights into market trends and opportunities, empowering them to make informed investment decisions.</p>
 </div>
 </table>
               

@@ -100,12 +100,9 @@ I bring a unique perspective to the intersection of technology and security. Dri
 
 ##  Contact 
 <div align="center">
-<a href="https://twitter.com/toniwilliamsdev">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href=https://toniwilliamswebdev.onrender.com>
    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.TW&logoColor=white"</a>
-        <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>              <a href="https://www.linkedin.com/in/toniwilliamsdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.codewars.com/users/toniwilliams1"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>              <a href="https://www.linkedin.com/in/toniwilliams03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
               <a href="https://medium.com/@toniwilliamsdev">
                           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
               </a>

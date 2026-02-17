@@ -21,7 +21,7 @@ I bring a unique perspective to the intersection of technology and security. Dri
 
 
 
-<h2 align="center" color="white">City Spaces NYC</h2>
+<h2 align="center" color="white">City Spaces</h2>
  <div align="center"> 
     
              

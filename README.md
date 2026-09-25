@@ -8,7 +8,7 @@
  <details>
 <summary>About Me</summary>
 <br>
-I bring a unique perspective to the intersection of technology and security. Driven by curiosity, I committed 30 weeks to learn how to code through an organization called 100 Devs. I spent 30 weeks freelancing, volunteering with community initiatives like Grassroots Grocery, and building full-stack web applications using the MERN stack. Now, I am a graduate student working on obtaining my Master's Degree in Digital Forensics and Cybersecurity. I’m passionate about building secure, scalable systems that address modern security challenges.
+Driven by curiosity, I committed 30 weeks to learn how to code through an organization called 100 Devs. I spent 30 weeks freelancing, volunteering with community initiatives like Grassroots Grocery, and building full-stack web applications using the MERN stack. Now, I am a graduate student working on obtaining my Master's Degree in Digital Forensics and Cybersecurity. I’m passionate about building secure, scalable systems that address modern security challenges.
   
 </div>
 
